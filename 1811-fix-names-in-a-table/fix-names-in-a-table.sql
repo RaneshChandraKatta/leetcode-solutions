@@ -5,4 +5,4 @@ SELECT
 FROM
 	Users
 ORDER BY
-	user_id;
+	user_id;    
