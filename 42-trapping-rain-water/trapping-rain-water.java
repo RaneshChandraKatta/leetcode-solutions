@@ -6,7 +6,7 @@ class Solution {
         lmax[0] = arr[0];
         for (int i = 1; i < n; i++) 
             lmax[i] = Math.max(lmax[i - 1], arr[i]);
-        
+            
         int[] rmax = new int[n];
         rmax[n - 1] = arr[n - 1];
         for (int i = n - 2; i >= 0; i--) 
@@ -19,3 +19,4 @@ class Solution {
         return ans;
     }
 }
+    
