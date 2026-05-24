@@ -13,7 +13,7 @@
 
 <pre>
 <strong>Input:</strong> height = [4,2,0,3,2,5]
-<strong>Output:</strong> 9
+<strong>Output:</strong> 9 
 </pre>
 
 <p>&nbsp;</p>
