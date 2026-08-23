@@ -8,4 +8,6 @@ class Solution:
             if(first[i]!=last[i]):
                 return ans
             ans+=first[i]
-        return ans 
+        return ans  
+    
+
